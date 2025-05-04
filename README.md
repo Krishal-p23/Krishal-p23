@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning PostgreSQL and Flutter
 - 💞️ I’m looking to collaborate on Android App Development
-- 📫 How to reach me email- aruhhh23@gmail.com
+- 📫 How to reach me email- prasad.krishal23@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Still anticipating the arrival of my Hogwarts acceptance letter
 <!---
