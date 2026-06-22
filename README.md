@@ -17,17 +17,6 @@ I enjoy exploring how AI can bridge the gap between research and practical appli
 
 ---
 
-## 🧠 What I’m Currently Exploring
-
-- Deep Learning architectures and optimization techniques  
-- Representation Learning and Generative AI  
-- Large Language Models (LLMs) and multimodal systems  
-- Computer Vision for real-world and scientific applications  
-- Full-stack AI-powered applications  
-- Intelligent systems for geospatial and biomedical data  
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -98,16 +87,31 @@ A full-stack service marketplace application that connects users with local serv
 
 🔗 Repository: https://github.com/krishal-p23/serviGO
 
+---
+
+# 📄 My Resumes
+
+I maintain two tailored resumes based on roles:
+
+## 💻 Software Development Engineer (SDE)
+👉 [Download SDE Resume](https://krishal-p23.tiiny.site/KrishalResumeSDE.pdf)
+
+Focused on:
+- Full Stack Development
+- System Design
+- Backend Engineering
+- Scalable Web Apps
 
 ---
 
-## 🎯 Goals
+## 🤖 AI/ML & Computer Vision Research
+👉 [Download AI/ML Resume](https://krishal-p23.tiiny.site/KrishalResume.pdf)
 
-- Contribute to impactful AI research and real-world ML systems  
-- Deepen expertise in Deep Learning and Computer Vision  
-- Explore advanced areas like LLMs, multimodal AI, and BCI systems  
-- Build scalable full-stack AI applications  
-- Work on intelligent systems that benefit society  
+Focused on:
+- Machine Learning & Deep Learning
+- Computer Vision (YOLO, ViT)
+- AI Integrations & Research Projects
+- Model Training & Deployment
 
 ---
 
