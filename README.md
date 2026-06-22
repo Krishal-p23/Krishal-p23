@@ -31,40 +31,54 @@ I enjoy exploring how AI can bridge the gap between research and practical appli
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,dart" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart"/>
+</p>
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,flutter" /> 
+</p> 
+<p align="center"> 
+    <img src="https://img.shields.io/badge/PrismJS-Code_Highlighting-purple?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/React_Markdown-Markdown_Renderer-orange?style=for-the-badge"/> 
 </p>
 
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,django,flask,mysql,postgres" /> 
+</p> 
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Mongoose-ODM_Library-green?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/Django%20REST-Framework-red?style=for-the-badge"/> 
+</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,django,flask" />
+    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/Groq-AI_Inference-FF6B00?style=for-the-badge"/> 
 </p>
 
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> 
+</p> 
+<p align="center"> 
+    <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge" /> 
+    <img src="https://img.shields.io/badge/ViT-Vision%20Transformer-purple?style=for-the-badge" /> 
+</p>
+<p align="center">  
+    <img src="https://img.shields.io/badge/Albumentations-Image%20Augmentation-orange?style=for-the-badge" /> 
+    <img src="https://img.shields.io/badge/LabelMe-Annotation%20Tool-green?style=for-the-badge" /> 
+</p>
+
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,visualstudio" />
+</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,linux,vim" /> 
+</p> 
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Clerk-Auth_&_User_Management-3B82F6?style=for-the-badge"/> 
 </p>
 
-<p align = "center">
-<img src="https://skillicons.dev/icons?i=flutter,mysql,postgres" />
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Axios-blue?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/React_Hot_Toast-Toast_Notifications-red?style=for-the-badge"/> 
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vim" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ViT-Vision%20Transformer-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Albumentations-Image%20Augmentation-orange?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LabelMe-Annotation%20Tool-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Django%20REST-Framework-red?style=for-the-badge" />
-</p>
-
 ---
 
 ## 📌 Projects
